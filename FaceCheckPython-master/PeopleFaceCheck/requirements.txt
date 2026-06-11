@@ -1,0 +1,7 @@
+opencv-python
+dlib
+tensorflow
+numpy
+scikit-learn
+ultralytics
+pillow

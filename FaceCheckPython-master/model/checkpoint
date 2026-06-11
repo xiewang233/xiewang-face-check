@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Administrator\\Desktop\\FaceCheckPython-master\\FaceCheckPython-master/model/train.model.ckpt-400"
+all_model_checkpoint_paths: "C:\\Users\\Administrator\\Desktop\\FaceCheckPython-master\\FaceCheckPython-master/model/train.model.ckpt-400"
